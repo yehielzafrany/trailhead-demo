@@ -6,7 +6,10 @@
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
     },
+
+    "securitySettings": {
     
+    },
     "mobileSettings": {
       "enableS1EncryptedStoragePref2": false
     }
